@@ -2,7 +2,7 @@
 
 친목 없이 토론토에 사는 예비 개발자와 개발자라면 누가나 편하게 서로 정보 공유할수있는 공간
 
-[위키](https://github.com/kordevs/main/wiki/%EC%B7%A8%EC%97%85%EC%A4%80%EB%B9%84)에 정보 추가중입니다.
+[위키](https://github.com/kordevs/main/wiki)에 정보 추가중입니다.
 내용 같이 추가하시고싶으신분은 알려주세요!
 
 오픈 카톡방 링크
